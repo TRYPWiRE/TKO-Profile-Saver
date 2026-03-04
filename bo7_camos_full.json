@@ -1627,7 +1627,7 @@
         }
       },
       "Pistols": {
-        "Jäger 45": {
+        "J\u00e4ger 45": {
           "military": [
             {
               "name": "Headshots",
@@ -1754,106 +1754,6 @@
               "current": 0,
               "target": 15,
               "display": "After Switch (15)"
-            }
-          ],
-          "mastery": [
-            {
-              "name": "3 Kill Streak",
-              "current": 0,
-              "target": 10,
-              "display": "10x 3 Kill Streak"
-            },
-            {
-              "name": "Double Kills",
-              "current": 0,
-              "target": 10,
-              "display": "Double Kills (10)"
-            },
-            {
-              "name": "5 Kill Streak",
-              "current": 0,
-              "target": 3,
-              "display": "3x 5 Kill Streak"
-            }
-          ]
-        },
-        "Arrow 109": {
-          "military": [
-            {
-              "name": "Kills or Streaks",
-              "current": 0,
-              "target": 80,
-              "display": "Kills or Streaks (80)"
-            }
-          ],
-          "special": [
-            {
-              "name": "Aerial Streaks",
-              "current": 0,
-              "target": 10,
-              "display": "Aerial Streaks (10)"
-            },
-            {
-              "name": "Direct Hits",
-              "current": 0,
-              "target": 10,
-              "display": "Direct Hits (10)"
-            },
-            {
-              "name": "Destroy Equipment",
-              "current": 0,
-              "target": 10,
-              "display": "Destroy Equipment (10)"
-            }
-          ],
-          "mastery": [
-            {
-              "name": "3 Kill Streak",
-              "current": 0,
-              "target": 10,
-              "display": "10x 3 Kill Streak"
-            },
-            {
-              "name": "Double Kills",
-              "current": 0,
-              "target": 10,
-              "display": "Double Kills (10)"
-            },
-            {
-              "name": "5 Kill Streak",
-              "current": 0,
-              "target": 3,
-              "display": "3x 5 Kill Streak"
-            }
-          ]
-        },
-        "A.R.C. M1": {
-          "military": [
-            {
-              "name": "Kills or Streaks",
-              "current": 0,
-              "target": 80,
-              "display": "Kills or Streaks (80)"
-            }
-          ],
-          "special": [
-            {
-              "name": "Aerial Streaks",
-              "current": 0,
-              "target": 10,
-              "display": "Aerial Streaks (10)"
-            },
-            {
-              "name": "No Damage",
-              "current": 0,
-              "target": 30,
-              "display": "No Damage (30)"
-            },
-            {
-              "name": "Destroy Equipment",
-              "current": 0,
-              "target": 10,
-              "display": "Destroy Equipment (10)"
             }
           ],
           "mastery": [
@@ -2059,6 +1959,108 @@
             }
           ],
           "mastery": [
+            {
+              "name": "Double Kills",
+              "current": 0,
+              "target": 10,
+              "display": "Double Kills (10)"
+            },
+            {
+              "name": "5 Kill Streak",
+              "current": 0,
+              "target": 3,
+              "display": "3x 5 Kill Streak"
+            }
+          ]
+        }
+      },
+      "Specials/Launchers": {
+        "Arrow 109": {
+          "military": [
+            {
+              "name": "Kills or Streaks",
+              "current": 0,
+              "target": 80,
+              "display": "Kills or Streaks (80)"
+            }
+          ],
+          "special": [
+            {
+              "name": "Aerial Streaks",
+              "current": 0,
+              "target": 10,
+              "display": "Aerial Streaks (10)"
+            },
+            {
+              "name": "Direct Hits",
+              "current": 0,
+              "target": 10,
+              "display": "Direct Hits (10)"
+            },
+            {
+              "name": "Destroy Equipment",
+              "current": 0,
+              "target": 10,
+              "display": "Destroy Equipment (10)"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "3 Kill Streak",
+              "current": 0,
+              "target": 10,
+              "display": "10x 3 Kill Streak"
+            },
+            {
+              "name": "Double Kills",
+              "current": 0,
+              "target": 10,
+              "display": "Double Kills (10)"
+            },
+            {
+              "name": "5 Kill Streak",
+              "current": 0,
+              "target": 3,
+              "display": "3x 5 Kill Streak"
+            }
+          ]
+        },
+        "A.R.C. M1": {
+          "military": [
+            {
+              "name": "Kills or Streaks",
+              "current": 0,
+              "target": 80,
+              "display": "Kills or Streaks (80)"
+            }
+          ],
+          "special": [
+            {
+              "name": "Aerial Streaks",
+              "current": 0,
+              "target": 10,
+              "display": "Aerial Streaks (10)"
+            },
+            {
+              "name": "No Damage",
+              "current": 0,
+              "target": 30,
+              "display": "No Damage (30)"
+            },
+            {
+              "name": "Destroy Equipment",
+              "current": 0,
+              "target": 10,
+              "display": "Destroy Equipment (10)"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "3 Kill Streak",
+              "current": 0,
+              "target": 10,
+              "display": "10x 3 Kill Streak"
+            },
             {
               "name": "Double Kills",
               "current": 0,
@@ -3747,7 +3749,7 @@
         }
       },
       "Pistols": {
-        "Jäger 45": {
+        "J\u00e4ger 45": {
           "military": [
             {
               "name": "Eliminations",
@@ -3874,106 +3876,6 @@
               "current": 0,
               "target": 3,
               "display": "Suppressor (3)"
-            }
-          ],
-          "mastery": [
-            {
-              "name": "3 Kills, 1 Game",
-              "current": 0,
-              "target": 5,
-              "display": "5x 3 Kills, 1 Game"
-            },
-            {
-              "name": "5 Kill Streak",
-              "current": 0,
-              "target": 5,
-              "display": "5x 5 Kill Streak"
-            },
-            {
-              "name": "Top 10",
-              "current": 0,
-              "target": 10,
-              "display": "Top 10 (10)"
-            }
-          ]
-        },
-        "Arrow 109": {
-          "military": [
-            {
-              "name": "Eliminations",
-              "current": 0,
-              "target": 100,
-              "display": "Eliminations (100)"
-            }
-          ],
-          "special": [
-            {
-              "name": "No Damage",
-              "current": 0,
-              "target": 2,
-              "display": "No Damage (2)"
-            },
-            {
-              "name": "Kills or Destruction",
-              "current": 0,
-              "target": 5,
-              "display": "Kills or Destruction (5)"
-            },
-            {
-              "name": "While Moving",
-              "current": 0,
-              "target": 2,
-              "display": "While Moving (2)"
-            }
-          ],
-          "mastery": [
-            {
-              "name": "3 Kills, 1 Game",
-              "current": 0,
-              "target": 5,
-              "display": "5x 3 Kills, 1 Game"
-            },
-            {
-              "name": "5 Kill Streak",
-              "current": 0,
-              "target": 5,
-              "display": "5x 5 Kill Streak"
-            },
-            {
-              "name": "Top 10",
-              "current": 0,
-              "target": 10,
-              "display": "Top 10 (10)"
-            }
-          ]
-        },
-        "A.R.C. M1": {
-          "military": [
-            {
-              "name": "Eliminations",
-              "current": 0,
-              "target": 100,
-              "display": "Eliminations (100)"
-            }
-          ],
-          "special": [
-            {
-              "name": "No Damage",
-              "current": 0,
-              "target": 2,
-              "display": "No Damage (2)"
-            },
-            {
-              "name": "Kills or Destruction",
-              "current": 0,
-              "target": 5,
-              "display": "Kills or Destruction (5)"
-            },
-            {
-              "name": "While Moving",
-              "current": 0,
-              "target": 2,
-              "display": "While Moving (2)"
             }
           ],
           "mastery": [
@@ -4126,6 +4028,108 @@
               "current": 0,
               "target": 2,
               "display": "After Sprinting (2)"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "3 Kills, 1 Game",
+              "current": 0,
+              "target": 5,
+              "display": "5x 3 Kills, 1 Game"
+            },
+            {
+              "name": "5 Kill Streak",
+              "current": 0,
+              "target": 5,
+              "display": "5x 5 Kill Streak"
+            },
+            {
+              "name": "Top 10",
+              "current": 0,
+              "target": 10,
+              "display": "Top 10 (10)"
+            }
+          ]
+        }
+      },
+      "Specials/Launchers": {
+        "Arrow 109": {
+          "military": [
+            {
+              "name": "Eliminations",
+              "current": 0,
+              "target": 100,
+              "display": "Eliminations (100)"
+            }
+          ],
+          "special": [
+            {
+              "name": "No Damage",
+              "current": 0,
+              "target": 2,
+              "display": "No Damage (2)"
+            },
+            {
+              "name": "Kills or Destruction",
+              "current": 0,
+              "target": 5,
+              "display": "Kills or Destruction (5)"
+            },
+            {
+              "name": "While Moving",
+              "current": 0,
+              "target": 2,
+              "display": "While Moving (2)"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "3 Kills, 1 Game",
+              "current": 0,
+              "target": 5,
+              "display": "5x 3 Kills, 1 Game"
+            },
+            {
+              "name": "5 Kill Streak",
+              "current": 0,
+              "target": 5,
+              "display": "5x 5 Kill Streak"
+            },
+            {
+              "name": "Top 10",
+              "current": 0,
+              "target": 10,
+              "display": "Top 10 (10)"
+            }
+          ]
+        },
+        "A.R.C. M1": {
+          "military": [
+            {
+              "name": "Eliminations",
+              "current": 0,
+              "target": 100,
+              "display": "Eliminations (100)"
+            }
+          ],
+          "special": [
+            {
+              "name": "No Damage",
+              "current": 0,
+              "target": 2,
+              "display": "No Damage (2)"
+            },
+            {
+              "name": "Kills or Destruction",
+              "current": 0,
+              "target": 5,
+              "display": "Kills or Destruction (5)"
+            },
+            {
+              "name": "While Moving",
+              "current": 0,
+              "target": 2,
+              "display": "While Moving (2)"
             }
           ],
           "mastery": [
@@ -5861,7 +5865,7 @@
         }
       },
       "Pistols": {
-        "Jäger 45": {
+        "J\u00e4ger 45": {
           "military": [
             {
               "name": "Criticals",
@@ -5988,106 +5992,6 @@
               "current": 0,
               "target": 100,
               "display": "Affected by Tactical (100)"
-            }
-          ],
-          "mastery": [
-            {
-              "name": "10 Rapid Kills",
-              "current": 0,
-              "target": 15,
-              "display": "15x 10 Rapid Kills"
-            },
-            {
-              "name": "20 Kills No Damage",
-              "current": 0,
-              "target": 5,
-              "display": "5x 20 Kills No Damage"
-            },
-            {
-              "name": "Elites",
-              "current": 0,
-              "target": 10,
-              "display": "Elites (10)"
-            }
-          ]
-        },
-        "Arrow 109": {
-          "military": [
-            {
-              "name": "Eliminations",
-              "current": 0,
-              "target": 1000,
-              "display": "Eliminations (1000)"
-            }
-          ],
-          "special": [
-            {
-              "name": "Fire Work Activation",
-              "current": 0,
-              "target": 75,
-              "display": "Fire Work Activation (75)"
-            },
-            {
-              "name": "Pack-A-Punched",
-              "current": 0,
-              "target": 300,
-              "display": "Pack-A-Punched (300)"
-            },
-            {
-              "name": "10 Kills No Damage",
-              "current": 0,
-              "target": 5,
-              "display": "10 Kills No Damage (5)"
-            }
-          ],
-          "mastery": [
-            {
-              "name": "10 Rapid Kills",
-              "current": 0,
-              "target": 15,
-              "display": "15x 10 Rapid Kills"
-            },
-            {
-              "name": "20 Kills No Damage",
-              "current": 0,
-              "target": 5,
-              "display": "5x 20 Kills No Damage"
-            },
-            {
-              "name": "Elites",
-              "current": 0,
-              "target": 10,
-              "display": "Elites (10)"
-            }
-          ]
-        },
-        "A.R.C. M1": {
-          "military": [
-            {
-              "name": "Eliminations",
-              "current": 0,
-              "target": 1000,
-              "display": "Eliminations (1000)"
-            }
-          ],
-          "special": [
-            {
-              "name": "Tier 2 Armor+",
-              "current": 0,
-              "target": 150,
-              "display": "Tier 2 Armor+ (150)"
-            },
-            {
-              "name": "Armored",
-              "current": 0,
-              "target": 75,
-              "display": "Armored (75)"
-            },
-            {
-              "name": "Fire Work Activation",
-              "current": 0,
-              "target": 75,
-              "display": "Fire Work Activation (75)"
             }
           ],
           "mastery": [
@@ -6290,6 +6194,108 @@
               "current": 0,
               "target": 300,
               "display": "Napalm Burst Equip (300)"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "10 Rapid Kills",
+              "current": 0,
+              "target": 15,
+              "display": "15x 10 Rapid Kills"
+            },
+            {
+              "name": "20 Kills No Damage",
+              "current": 0,
+              "target": 5,
+              "display": "5x 20 Kills No Damage"
+            },
+            {
+              "name": "Elites",
+              "current": 0,
+              "target": 10,
+              "display": "Elites (10)"
+            }
+          ]
+        }
+      },
+      "Specials/Launchers": {
+        "Arrow 109": {
+          "military": [
+            {
+              "name": "Eliminations",
+              "current": 0,
+              "target": 1000,
+              "display": "Eliminations (1000)"
+            }
+          ],
+          "special": [
+            {
+              "name": "Fire Work Activation",
+              "current": 0,
+              "target": 75,
+              "display": "Fire Work Activation (75)"
+            },
+            {
+              "name": "Pack-A-Punched",
+              "current": 0,
+              "target": 300,
+              "display": "Pack-A-Punched (300)"
+            },
+            {
+              "name": "10 Kills No Damage",
+              "current": 0,
+              "target": 5,
+              "display": "10 Kills No Damage (5)"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "10 Rapid Kills",
+              "current": 0,
+              "target": 15,
+              "display": "15x 10 Rapid Kills"
+            },
+            {
+              "name": "20 Kills No Damage",
+              "current": 0,
+              "target": 5,
+              "display": "5x 20 Kills No Damage"
+            },
+            {
+              "name": "Elites",
+              "current": 0,
+              "target": 10,
+              "display": "Elites (10)"
+            }
+          ]
+        },
+        "A.R.C. M1": {
+          "military": [
+            {
+              "name": "Eliminations",
+              "current": 0,
+              "target": 1000,
+              "display": "Eliminations (1000)"
+            }
+          ],
+          "special": [
+            {
+              "name": "Tier 2 Armor+",
+              "current": 0,
+              "target": 150,
+              "display": "Tier 2 Armor+ (150)"
+            },
+            {
+              "name": "Armored",
+              "current": 0,
+              "target": 75,
+              "display": "Armored (75)"
+            },
+            {
+              "name": "Fire Work Activation",
+              "current": 0,
+              "target": 75,
+              "display": "Fire Work Activation (75)"
             }
           ],
           "mastery": [
@@ -8025,7 +8031,7 @@
         }
       },
       "Pistols": {
-        "Jäger 45": {
+        "J\u00e4ger 45": {
           "military": [
             {
               "name": "Criticals",
@@ -8152,106 +8158,6 @@
               "current": 0,
               "target": 25,
               "display": "After Switch (25)"
-            }
-          ],
-          "mastery": [
-            {
-              "name": "Special Enemies",
-              "current": 0,
-              "target": 20,
-              "display": "Special Enemies (20)"
-            },
-            {
-              "name": "Zone 3/4",
-              "current": 0,
-              "target": 100,
-              "display": "Zone 3/4 (100)"
-            },
-            {
-              "name": "Elites",
-              "current": 0,
-              "target": 10,
-              "display": "Elites (10)"
-            }
-          ]
-        },
-        "Arrow 109": {
-          "military": [
-            {
-              "name": "Kills or Equip",
-              "current": 0,
-              "target": 250,
-              "display": "Kills or Equip (250)"
-            }
-          ],
-          "special": [
-            {
-              "name": "Direct Hit",
-              "current": 0,
-              "target": 25,
-              "display": "Direct Hit (25)"
-            },
-            {
-              "name": "Fear Enemies",
-              "current": 0,
-              "target": 100,
-              "display": "Fear Enemies (100)"
-            },
-            {
-              "name": "3 Enemies, 1 Shot",
-              "current": 0,
-              "target": 10,
-              "display": "3 Enemies, 1 Shot (10)"
-            }
-          ],
-          "mastery": [
-            {
-              "name": "Special Enemies",
-              "current": 0,
-              "target": 20,
-              "display": "Special Enemies (20)"
-            },
-            {
-              "name": "Zone 3/4",
-              "current": 0,
-              "target": 100,
-              "display": "Zone 3/4 (100)"
-            },
-            {
-              "name": "Elites",
-              "current": 0,
-              "target": 10,
-              "display": "Elites (10)"
-            }
-          ]
-        },
-        "A.R.C. M1": {
-          "military": [
-            {
-              "name": "Kills or Equip",
-              "current": 0,
-              "target": 250,
-              "display": "Kills or Equip (250)"
-            }
-          ],
-          "special": [
-            {
-              "name": "After Switch",
-              "current": 0,
-              "target": 25,
-              "display": "After Switch (25)"
-            },
-            {
-              "name": "Move While ADS",
-              "current": 0,
-              "target": 50,
-              "display": "Move While ADS (50)"
-            },
-            {
-              "name": "Guild Tech",
-              "current": 0,
-              "target": 50,
-              "display": "Guild Tech (50)"
             }
           ],
           "mastery": [
@@ -8454,6 +8360,108 @@
               "current": 0,
               "target": 50,
               "display": "After Sprinting (50)"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "Special Enemies",
+              "current": 0,
+              "target": 20,
+              "display": "Special Enemies (20)"
+            },
+            {
+              "name": "Zone 3/4",
+              "current": 0,
+              "target": 100,
+              "display": "Zone 3/4 (100)"
+            },
+            {
+              "name": "Elites",
+              "current": 0,
+              "target": 10,
+              "display": "Elites (10)"
+            }
+          ]
+        }
+      },
+      "Specials/Launchers": {
+        "Arrow 109": {
+          "military": [
+            {
+              "name": "Kills or Equip",
+              "current": 0,
+              "target": 250,
+              "display": "Kills or Equip (250)"
+            }
+          ],
+          "special": [
+            {
+              "name": "Direct Hit",
+              "current": 0,
+              "target": 25,
+              "display": "Direct Hit (25)"
+            },
+            {
+              "name": "Fear Enemies",
+              "current": 0,
+              "target": 100,
+              "display": "Fear Enemies (100)"
+            },
+            {
+              "name": "3 Enemies, 1 Shot",
+              "current": 0,
+              "target": 10,
+              "display": "3 Enemies, 1 Shot (10)"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "Special Enemies",
+              "current": 0,
+              "target": 20,
+              "display": "Special Enemies (20)"
+            },
+            {
+              "name": "Zone 3/4",
+              "current": 0,
+              "target": 100,
+              "display": "Zone 3/4 (100)"
+            },
+            {
+              "name": "Elites",
+              "current": 0,
+              "target": 10,
+              "display": "Elites (10)"
+            }
+          ]
+        },
+        "A.R.C. M1": {
+          "military": [
+            {
+              "name": "Kills or Equip",
+              "current": 0,
+              "target": 250,
+              "display": "Kills or Equip (250)"
+            }
+          ],
+          "special": [
+            {
+              "name": "After Switch",
+              "current": 0,
+              "target": 25,
+              "display": "After Switch (25)"
+            },
+            {
+              "name": "Move While ADS",
+              "current": 0,
+              "target": 50,
+              "display": "Move While ADS (50)"
+            },
+            {
+              "name": "Guild Tech",
+              "current": 0,
+              "target": 50,
+              "display": "Guild Tech (50)"
             }
           ],
           "mastery": [
