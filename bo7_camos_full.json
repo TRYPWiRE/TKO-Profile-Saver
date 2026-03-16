@@ -414,6 +414,26 @@
           ],
           "special": [
             {
+              "name": "30 Objective Kills",
+              "current": 0,
+              "target": 10,
+              "display": "30 Objective Kills"
+            },
+            {
+              "name": "50 Kills no attachments",
+              "current": 0,
+              "target": 10,
+              "display": "No Attachments (50)"
+            },
+            {
+              "name": "REDACTED,
+              "current": 0,
+              "target": 3,
+              "display": "REDACTED"
+            }
+          ],
+          "mastery": [
+            {
               "name": "3 Kill Streak",
               "current": 0,
               "target": 10,
@@ -431,8 +451,7 @@
               "target": 3,
               "display": "3x 5 Kill Streak"
             }
-          ],
-          "mastery": []
+          ]
         }
       },
       "SMGs": {
