@@ -426,10 +426,60 @@
               "display": "No Attachments (50)"
             },
             {
-              "name": "REDACTED,
+              "name": "REDACTED",
               "current": 0,
               "target": 3,
               "display": "REDACTED"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "3 Kill Streak",
+              "current": 0,
+              "target": 10,
+              "display": "10x 3 Kill Streak"
+            },
+            {
+              "name": "Double Kills",
+              "current": 0,
+              "target": 10,
+              "display": "Double Kills (10)"
+            },
+            {
+              "name": "5 Kill Streak",
+              "current": 0,
+              "target": 3,
+              "display": "3x 5 Kill Streak"
+            }
+          ]
+        },
+        "MK35 ISR": {
+          "military": [
+            {
+              "name": "Headshots",
+              "current": 0,
+              "target": 80,
+              "display": "Headshots (80)"
+            }
+          ],
+          "special": [
+            {
+              "name": "Underbarrel Launcher",
+              "current": 0,
+              "target": 20,
+              "display": "Underbarrel Launcher (20)"
+            },
+            {
+              "name": "8 Attachments (Gunfighter)",
+              "current": 0,
+              "target": 50,
+              "display": "8 Attachments Gunfighter (50)"
+            },
+            {
+              "name": "Tactical/Scorestreak Kill",
+              "current": 0,
+              "target": 30,
+              "display": "Tactical/Scorestreak Kill (30)"
             }
           ],
           "mastery": [
@@ -904,6 +954,56 @@
               "display": "3x 5 Kill Streak"
             }
           ]
+        },
+        "VST": {
+          "military": [
+            {
+              "name": "Headshots",
+              "current": 0,
+              "target": 80,
+              "display": "Headshots (80)"
+            }
+          ],
+          "special": [
+            {
+              "name": "With Suppressor",
+              "current": 0,
+              "target": 50,
+              "display": "With Suppressor (50)"
+            },
+            {
+              "name": "While Moving",
+              "current": 0,
+              "target": 50,
+              "display": "While Moving (50)"
+            },
+            {
+              "name": "No Attachments",
+              "current": 0,
+              "target": 50,
+              "display": "No Attachments (50)"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "3 Kill Streak",
+              "current": 0,
+              "target": 10,
+              "display": "10x 3 Kill Streak"
+            },
+            {
+              "name": "Double Kills",
+              "current": 0,
+              "target": 10,
+              "display": "Double Kills (10)"
+            },
+            {
+              "name": "5 Kill Streak",
+              "current": 0,
+              "target": 3,
+              "display": "3x 5 Kill Streak"
+            }
+          ]
         }
       },
       "Shotguns": {
@@ -1643,10 +1743,36 @@
               "display": "3x 5 Kill Streak"
             }
           ]
+        },
+        "Strider .300": {
+          "military": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "special": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ]
         }
       },
       "Pistols": {
-        "J\u00e4ger 45": {
+        "Jäger 45": {
           "military": [
             {
               "name": "Headshots",
@@ -1793,6 +1919,32 @@
               "current": 0,
               "target": 3,
               "display": "3x 5 Kill Streak"
+            }
+          ]
+        },
+        "1911": {
+          "military": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "special": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
             }
           ]
         }
@@ -1991,6 +2143,32 @@
               "display": "3x 5 Kill Streak"
             }
           ]
+        },
+        "Katana": {
+          "military": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "special": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ]
         }
       },
       "Specials/Launchers": {
@@ -2174,6 +2352,32 @@
             }
           ],
           "mastery": []
+        },
+        "Siren": {
+          "military": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "special": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ]
         }
       }
     }
@@ -2593,6 +2797,56 @@
             }
           ],
           "mastery": []
+        },
+        "MK35 ISR": {
+          "military": [
+            {
+              "name": "Eliminations",
+              "current": 0,
+              "target": 100,
+              "display": "Eliminations (100)"
+            }
+          ],
+          "special": [
+            {
+              "name": "Headshots",
+              "current": 0,
+              "target": 5,
+              "display": "Headshots (5)"
+            },
+            {
+              "name": "Suppressor",
+              "current": 0,
+              "target": 5,
+              "display": "Suppressor (5)"
+            },
+            {
+              "name": "After Sprinting",
+              "current": 0,
+              "target": 5,
+              "display": "After Sprinting (5)"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "3 Kills, 1 Game",
+              "current": 0,
+              "target": 5,
+              "display": "5x 3 Kills, 1 Game"
+            },
+            {
+              "name": "5 Kill Streak",
+              "current": 0,
+              "target": 5,
+              "display": "5x 5 Kill Streak"
+            },
+            {
+              "name": "Top 10",
+              "current": 0,
+              "target": 10,
+              "display": "Top 10 (10)"
+            }
+          ]
         }
       },
       "SMGs": {
@@ -3026,6 +3280,56 @@
             }
           ],
           "mastery": []
+        },
+        "VST": {
+          "military": [
+            {
+              "name": "Eliminations",
+              "current": 0,
+              "target": 100,
+              "display": "Eliminations (100)"
+            }
+          ],
+          "special": [
+            {
+              "name": "Headshots",
+              "current": 0,
+              "target": 5,
+              "display": "Headshots (5)"
+            },
+            {
+              "name": "Suppressor",
+              "current": 0,
+              "target": 5,
+              "display": "Suppressor (5)"
+            },
+            {
+              "name": "After Sprinting",
+              "current": 0,
+              "target": 5,
+              "display": "After Sprinting (5)"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "3 Kills, 1 Game",
+              "current": 0,
+              "target": 5,
+              "display": "5x 3 Kills, 1 Game"
+            },
+            {
+              "name": "5 Kill Streak",
+              "current": 0,
+              "target": 5,
+              "display": "5x 5 Kill Streak"
+            },
+            {
+              "name": "Top 10",
+              "current": 0,
+              "target": 10,
+              "display": "Top 10 (10)"
+            }
+          ]
         }
       },
       "Shotguns": {
@@ -3765,10 +4069,36 @@
               "display": "Top 10 (10)"
             }
           ]
+        },
+        "Strider .300": {
+          "military": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "special": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ]
         }
       },
       "Pistols": {
-        "J\u00e4ger 45": {
+        "Jäger 45": {
           "military": [
             {
               "name": "Eliminations",
@@ -3915,6 +4245,32 @@
               "current": 0,
               "target": 10,
               "display": "Top 10 (10)"
+            }
+          ]
+        },
+        "1911": {
+          "military": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "special": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
             }
           ]
         }
@@ -4067,6 +4423,32 @@
               "current": 0,
               "target": 10,
               "display": "Top 10 (10)"
+            }
+          ]
+        },
+        "Katana": {
+          "military": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "special": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
             }
           ]
         }
@@ -4252,6 +4634,32 @@
             }
           ],
           "mastery": []
+        },
+        "Siren": {
+          "military": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "special": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ]
         }
       }
     }
@@ -4690,6 +5098,56 @@
             }
           ],
           "mastery": []
+        },
+        "MK35 ISR": {
+          "military": [
+            {
+              "name": "Criticals",
+              "current": 0,
+              "target": 1000,
+              "display": "Criticals (1000)"
+            }
+          ],
+          "special": [
+            {
+              "name": "10 Kills in 3 Seconds",
+              "current": 0,
+              "target": 15,
+              "display": "15x 10 Kills in 3 Seconds"
+            },
+            {
+              "name": "Critical Kills (Single Match)",
+              "current": 0,
+              "target": 300,
+              "display": "Criticals Single Match (300)"
+            },
+            {
+              "name": "TEDD Task Kills",
+              "current": 0,
+              "target": 15,
+              "display": "15x 25 TEDD Task Kills"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "10 Rapid Kills",
+              "current": 0,
+              "target": 15,
+              "display": "15x 10 Rapid Kills"
+            },
+            {
+              "name": "20 Kills No Damage",
+              "current": 0,
+              "target": 5,
+              "display": "5x 20 Kills No Damage"
+            },
+            {
+              "name": "Elites",
+              "current": 0,
+              "target": 10,
+              "display": "Elites (10)"
+            }
+          ]
         }
       },
       "SMGs": {
@@ -5120,6 +5578,56 @@
               "current": 0,
               "target": 300,
               "display": "Pack-A-Punched (300)"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "10 Rapid Kills",
+              "current": 0,
+              "target": 15,
+              "display": "15x 10 Rapid Kills"
+            },
+            {
+              "name": "20 Kills No Damage",
+              "current": 0,
+              "target": 5,
+              "display": "5x 20 Kills No Damage"
+            },
+            {
+              "name": "Elites",
+              "current": 0,
+              "target": 10,
+              "display": "Elites (10)"
+            }
+          ]
+        },
+        "VST": {
+          "military": [
+            {
+              "name": "Criticals",
+              "current": 0,
+              "target": 1000,
+              "display": "Criticals (1000)"
+            }
+          ],
+          "special": [
+            {
+              "name": "Eliminations (Single Match)",
+              "current": 0,
+              "target": 500,
+              "display": "Eliminations Single Match (500)"
+            },
+            {
+              "name": "Tactical Equipment Kills",
+              "current": 0,
+              "target": 100,
+              "display": "Tactical Equipment Kills (100)"
+            },
+            {
+              "name": "Hipfire Kills",
+              "current": 0,
+              "target": 300,
+              "display": "Hipfire Kills (300)"
             }
           ],
           "mastery": [
@@ -5881,10 +6389,36 @@
               "display": "Elites (10)"
             }
           ]
+        },
+        "Strider .300": {
+          "military": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "special": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ]
         }
       },
       "Pistols": {
-        "J\u00e4ger 45": {
+        "Jäger 45": {
           "military": [
             {
               "name": "Criticals",
@@ -6031,6 +6565,32 @@
               "current": 0,
               "target": 10,
               "display": "Elites (10)"
+            }
+          ]
+        },
+        "1911": {
+          "military": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "special": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
             }
           ]
         }
@@ -6235,6 +6795,32 @@
               "display": "Elites (10)"
             }
           ]
+        },
+        "Katana": {
+          "military": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "special": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ]
         }
       },
       "Specials/Launchers": {
@@ -6418,6 +7004,32 @@
             }
           ],
           "mastery": []
+        },
+        "Siren": {
+          "military": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "special": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ]
         }
       }
     }
@@ -6856,6 +7468,56 @@
             }
           ],
           "mastery": []
+        },
+        "MK35 ISR": {
+          "military": [
+            {
+              "name": "Criticals",
+              "current": 0,
+              "target": 250,
+              "display": "Criticals (250)"
+            }
+          ],
+          "special": [
+            {
+              "name": "Rare+ Eliminations",
+              "current": 0,
+              "target": 100,
+              "display": "Rare+ Eliminations (100)"
+            },
+            {
+              "name": "Extended Mag Eliminations",
+              "current": 0,
+              "target": 100,
+              "display": "Ext. Mag Eliminations (100)"
+            },
+            {
+              "name": "Fear Enemies",
+              "current": 0,
+              "target": 100,
+              "display": "Fear Enemies (100)"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "Special Enemies",
+              "current": 0,
+              "target": 20,
+              "display": "Special Enemies (20)"
+            },
+            {
+              "name": "Zone 3/4",
+              "current": 0,
+              "target": 100,
+              "display": "Zone 3/4 (100)"
+            },
+            {
+              "name": "Elites",
+              "current": 0,
+              "target": 10,
+              "display": "Elites (10)"
+            }
+          ]
         }
       },
       "SMGs": {
@@ -7286,6 +7948,56 @@
               "current": 0,
               "target": 10,
               "display": "3 Rapid Kills (10)"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "Special Enemies",
+              "current": 0,
+              "target": 20,
+              "display": "Special Enemies (20)"
+            },
+            {
+              "name": "Zone 3/4",
+              "current": 0,
+              "target": 100,
+              "display": "Zone 3/4 (100)"
+            },
+            {
+              "name": "Elites",
+              "current": 0,
+              "target": 10,
+              "display": "Elites (10)"
+            }
+          ]
+        },
+        "VST": {
+          "military": [
+            {
+              "name": "Criticals",
+              "current": 0,
+              "target": 250,
+              "display": "Criticals (250)"
+            }
+          ],
+          "special": [
+            {
+              "name": "After Sprinting",
+              "current": 0,
+              "target": 50,
+              "display": "After Sprinting (50)"
+            },
+            {
+              "name": "Human NPC Enemies",
+              "current": 0,
+              "target": 100,
+              "display": "Human NPC Enemies (100)"
+            },
+            {
+              "name": "Tactical Stance (Tactical Laser)",
+              "current": 0,
+              "target": 50,
+              "display": "Tactical Stance (50)"
             }
           ],
           "mastery": [
@@ -8047,10 +8759,36 @@
               "display": "Elites (10)"
             }
           ]
+        },
+        "Strider .300": {
+          "military": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "special": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ]
         }
       },
       "Pistols": {
-        "J\u00e4ger 45": {
+        "Jäger 45": {
           "military": [
             {
               "name": "Criticals",
@@ -8197,6 +8935,32 @@
               "current": 0,
               "target": 10,
               "display": "Elites (10)"
+            }
+          ]
+        },
+        "1911": {
+          "military": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "special": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
             }
           ]
         }
@@ -8401,6 +9165,32 @@
               "display": "Elites (10)"
             }
           ]
+        },
+        "Katana": {
+          "military": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "special": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ]
         }
       },
       "Specials/Launchers": {
@@ -8584,6 +9374,32 @@
             }
           ],
           "mastery": []
+        },
+        "Siren": {
+          "military": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "special": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ],
+          "mastery": [
+            {
+              "name": "TBC",
+              "current": 0,
+              "target": 0,
+              "display": "TBC"
+            }
+          ]
         }
       }
     }
